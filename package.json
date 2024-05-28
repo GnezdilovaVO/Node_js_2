@@ -1,0 +1,11 @@
+{
+  "name": "valya_generate_password",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Password generator from a string of letters"
+}
